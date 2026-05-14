@@ -6,9 +6,7 @@ Aplicación desarrollada en **MATLAB App Designer** para calcular y visualizar c
 
 **Armando CA**
 
-## Captura de la aplicación
-
-![Captura de ventana de la aplicación](Images/CurvadeAfluencia%20captura%20de%20ventana%20app%20dark%20mode.png)
+![Captura de ventana de la aplicación](Im%C3%A1genes/CurvadeAfluencia%20captura%20de%20ventana%20app%20dark%20mode.png)
 
 ## Características principales
 
