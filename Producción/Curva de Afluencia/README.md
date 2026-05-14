@@ -2,6 +2,10 @@
 
 Aplicación desarrollada en **MATLAB App Designer** para calcular y visualizar curvas de comportamiento de afluencia de pozos petroleros mediante distintos modelos IPR. La herramienta permite ingresar datos de prueba presión-producción, seleccionar el sistema de unidades, calcular gastos máximos y comparar gráficamente los métodos implementados.
 
+## Autor
+
+**Armando CA**
+
 ## Captura de la aplicación
 
 ![Captura de ventana de la aplicación](Imágenes/Captura de app Curva de Afluencia dark mode.png)
@@ -158,25 +162,12 @@ $$
 7. Se grafican las curvas comparativas en la ventana principal.
 8. El usuario puede cambiar el sistema de unidades para visualizar los resultados convertidos.
 
-## Estructura sugerida del repositorio
-
-```text
-Curva-de-Afluencia/
-├── README.md
-├── CurvadeAfluencia.mlapp
-└── assets/
-    └── app_screenshot.png
-```
 
 ## Requisitos
 
 - MATLAB.
 - App Designer.
 - Archivo principal de la aplicación: `CurvadeAfluencia.mlapp`.
-
-## Autor
-
-**Armando CA**
 
 ## Nota
 
