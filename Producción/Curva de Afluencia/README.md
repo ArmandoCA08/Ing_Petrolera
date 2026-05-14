@@ -8,7 +8,7 @@ Aplicación desarrollada en **MATLAB App Designer** para calcular y visualizar c
 
 ## Captura de la aplicación
 
-![Captura de ventana de la aplicación](Imágenes/Captura de app Curva de Afluencia dark mode.png)
+![Captura de ventana de la aplicación](Imágenes/CurvadeAfluencia captura de ventana app dark mode.png)
 
 ## Características principales
 
