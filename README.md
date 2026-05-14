@@ -9,6 +9,7 @@ El contenido se irá actualizando progresivamente, incorporando trabajos relacio
 - Producción de hidrocarburos.
 - Yacimientos.
 - Análisis nodal.
+- Análisis PVT.
 - Flujo multifásico.
 - Automatización de cálculos.
 - Visualización y análisis de datos.
